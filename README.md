@@ -1,0 +1,2 @@
+Katibim, kullanıcının yazım hızını ve doğruluğunu test etmek için geliştirilmiş bir Java uygulamasıdır. Kendine özgü özellikleri arasında gerçek zamanlı kelime doğrulama, geri sayım zamanlayıcısı ve hızlı geri bildirim mekanizması yer alır. Katibim, kullanıcılarına zaman içinde gelişmelerini izleme ve klavye becerilerini mükemmelleştirme fırsatı sunar. Eğlenceli ve etkili bir öğrenme deneyimi için Katibim'i deneyin!
+-Ahmet Serdıl HATİPOĞLU
